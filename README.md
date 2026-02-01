@@ -1,27 +1,28 @@
 # Calculator App 🧮
 
 A **simple and responsive calculator web app** built using **HTML, CSS, and JavaScript**.  
-This app can perform basic arithmetic operations such as addition, subtraction, multiplication, and division with a clean and user-friendly interface.
+This app performs basic arithmetic operations (addition, subtraction, multiplication, division) with a clean and user-friendly interface.  
 
 ---
 
 ## 🚀 Features
 - Perform **addition, subtraction, multiplication, and division**  
 - **Clear button** to reset input  
-- Responsive design that works on desktop and mobile  
-- Easy to use for learning or testing calculations  
+- Responsive design for **desktop and mobile**  
+- Ideal for learning JavaScript or testing calculations  
 
 ---
 
-## 🎨 Demo
-Try the live demo on GitHub Pages:  
-"demo link comming soon"
+## 🎨 Live Demo
+Try it live on GitHub Pages:  
+[Calculator App Live Demo](https://sadiapuspita.github.io/calculator_app/)
 
 ---
 
 ## 🖼 Screenshots
-![Calculator Screenshot]   
-m.png
+[![Calculator Screenshot](m.png)](https://sadiapuspita.github.io/calculator_app/)  
+
+*Click the image to try the live demo.*
 
 ---
 
@@ -36,4 +37,3 @@ m.png
 1. Clone this repository:  
 ```bash
 git clone https://github.com/sadiapuspita/calculator_app.git
-
